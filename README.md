@@ -17,7 +17,7 @@ Interdisciplinary engineer with background in power systems and mathematical mod
 
 ## Key Projects
 
-### [Fraud Detection Pipeline](https://github.com/ferserna95/portafolio-fraude-aws)
+### [Fraud Detection Pipeline](https://github.com/ferserna95/portafolio-fraude-aws-)
 **Focus:** High-latency reduction and class imbalance mitigation.
 Implemented an end-to-end pipeline using SMOTE and Random Forest. Modularized inference logic for AWS Lambda deployment, ensuring separation between the training phase (Notebooks) and the production handler (`inference.py`).
 
