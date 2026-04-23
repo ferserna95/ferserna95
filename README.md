@@ -21,7 +21,7 @@ Interdisciplinary engineer with background in power systems and mathematical mod
 **Focus:** High-latency reduction and class imbalance mitigation.
 Implemented an end-to-end pipeline using SMOTE and Random Forest. Modularized inference logic for AWS Lambda deployment, ensuring separation between the training phase (Notebooks) and the production handler (`inference.py`).
 
-### [GovTech Operational Efficiency](https://github.com/ferserna95/proyecto-govtech)
+### [GovTech Operational Efficiency](https://github.com/ferserna95/govtech-document-engine)
 **Focus:** Process optimization and data governance.
 Applied evidence-based decision-making models to optimize public administrative flows, emphasizing algorithmic transparency and operational throughput.
 
