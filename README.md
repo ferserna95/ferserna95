@@ -1,40 +1,37 @@
-# Hello! I'm Fernando (@ferserna95) 👋
+# Fernando Serna
+## Electrical Engineer | Data Scientist | Cloud Data Architect
 
-I am an electrical engineer focused on **data science** and its application in **electrical engineering**. My greatest contributions are in data analysis, machine learning, and optimization techniques.
-I leverage data to make informed decisions in collaborations and projects. I also have a solid background in electrical power systems and synchronous machine simulations. 
+"The only way to do great work is to love what you do." – *F. Faggin*
 
-## 📊 Featured Projects
+"Talk is cheap. Show me the code." – *L. Torvalds*
 
-- **Data Analysis on Mental Health in Tech**: Research and analysis of survey results, identifying trends and patterns.
-- **Energy Demand Prediction**: Development of prediction models using machine learning and statistical analysis.
-- **Study of Stability in Electrical Systems**: Research on stability using non-linear models, evaluating key parameters.
-- **Synchronous Machine Simulations**: Analysis and simulation using Python, solving differential equations and visualizing results.
+---
 
-## 🔧 Technologies I Use
+## Engineering Profile
+Interdisciplinary engineer with background in power systems and mathematical modeling. Focused on the development of scalable data pipelines and machine learning systems. Expertise in transitioning analytical models from experimentation (Notebooks) to high-throughput production environments (AWS Serverless).
 
-- **Languages**: Python, MATLAB, SQL
-- **Libraries**: NumPy, SciPy, Matplotlib, Plotly, Pandas, Seaborn
-- **Tools**: Jupyter, Google Colab, Visual Studio Code
+## Focus Areas
+* **Systems Architecture:** Designing serverless, event-driven pipelines (AWS Lambda/API Gateway).
+* **Algorithmic Efficiency:** Implementation of robust learning models (Random Forest, Clustering) with focus on pre-processing, data integrity, and pipeline reproducibility.
+* **Deterministic Modeling:** Power systems stability and transient analysis.
 
-## 👀 Interests
+## Key Projects
 
-I am interested in **data science**, **machine learning**, **programming**, and **power optimization**.
+### [Fraud Detection Pipeline](https://github.com/ferserna95/portafolio-fraude-aws)
+**Focus:** High-latency reduction and class imbalance mitigation.
+Implemented an end-to-end pipeline using SMOTE and Random Forest. Modularized inference logic for AWS Lambda deployment, ensuring separation between the training phase (Notebooks) and the production handler (`inference.py`).
 
-## 🌱 Current Learning
+### [GovTech Operational Efficiency](https://github.com/ferserna95/proyecto-govtech)
+**Focus:** Process optimization and data governance.
+Applied evidence-based decision-making models to optimize public administrative flows, emphasizing algorithmic transparency and operational throughput.
 
-I am currently learning **data science techniques** and applying them to various projects, including mental health analysis and energy forecasting.
+### [Customer Personality Analysis](https://github.com/ferserna95/analysis-of-different-databases-)
+**Focus:** Unsupervised learning and feature variance.
+Implementation of clustering techniques for behavioral segmentation, focusing on statistical distance metrics and actionable feature extraction.
 
-## 💞️ Collaborations
+### [Power System Stability](https://github.com/ferserna95/power-system-stability)
+**Focus:** Numerical computation.
+Mathematical modeling of synchronous machines and electromagnetic fields. Addresses transient stability via numerical algorithms.
 
-I am looking to collaborate on **projects involving data science, machine learning, and electrical engineering**.
-
-## 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/ferserna95)
-
-## ⚡ Fun Facts
-
-I enjoy solving puzzles and learning about new technologies in my free time.
-
-Thanks for visiting my profile!
-
+---
+*My goal is to minimize complexity and maximize system reliability. If you're looking for clean, maintainable, and battle-tested code, let's talk.*
